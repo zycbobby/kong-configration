@@ -4,13 +4,10 @@
 2. write method define in the following 
 3. Declare custom_plugins in the kong configurationf ile
 4.
-
 ```bash
 luarocks write_rockspec --lua-version=5.1 netease 0.6.1(这个是kong的版本哦) .
 ```
-
 5. modify the file generated above
-
 6 install
 
 ```bash
