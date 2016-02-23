@@ -15,6 +15,8 @@
   # - hello_world
   # - custom_plugin2
   # - ...
+custom_plugins:
+  - helloworld
 
 ######
 ## The Kong working directory. Equivalent to nginx's prefix path.
